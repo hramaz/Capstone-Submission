@@ -1,2 +1,0 @@
-Repository Name: SauceDemoAutomation
-Repository URL: https://github.com/hramaz/SauceDemoAutomation/tree/CaseStudy_Intermediate
