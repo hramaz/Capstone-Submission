@@ -1,0 +1,4 @@
+Repository Name: SauceDemoAutomation
+Repository URL: https://github.com/hramaz/SauceDemoAutomation/tree/CaseStudy_Intermediate
+
+C:\Users\malkumari\AppData\Local\Programs\Python\Python313\Lib\site-packages\setuptools\_distutils\__init__.py
